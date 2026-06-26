@@ -1,5 +1,15 @@
 # Keyzeron Panel
 
-This is the official profile placeholder.
+This profile is currently a controlled placeholder.
 
-Core repositories and release artifacts will be published here.
+## Status
+- Active development is in progress.
+- Public technical documentation will be published in later phases.
+- Repository/package visibility and release channels are managed in stages.
+
+## Notes
+- For now, this profile intentionally avoids architecture and deployment details.
+- Official docs and release notes will be shared from this account when ready.
+
+## Contact
+- Maintainer channel: to be announced.
